@@ -41,6 +41,9 @@ git clone https://github.com/GhaythBenAbid/Sleep-Quality-Insights
 ## Contributors
 
 - [Ghayth Ben Abid](https://github.com/GhaythBenAbid)
+- [Abir Belhedi](https://github.com/abirbelh)
+- [Asma Bey](https://github.com/Asma2212)
+- [Nadine Ben Hassen](https://github.com/nadinebenhassen)
 
 
 ## License
